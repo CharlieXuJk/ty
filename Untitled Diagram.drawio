@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T23:54:33.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="MQMJT8tfNhJP12r7vLkY" version="15.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-15T00:25:58.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="0xCJHhEUUabn4H8LErCg" version="15.2.5" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2655" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -319,7 +319,7 @@
           <mxGeometry x="1010" y="660" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B-1KJg-qmIze-_IbCJFN-47" value="takes place" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="480" width="80" height="20" as="geometry" />
+          <mxGeometry x="80" y="690" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B-1KJg-qmIze-_IbCJFN-50" value="Those having a fever&amp;nbsp; are considered" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="795" y="420" width="210" height="20" as="geometry" />
